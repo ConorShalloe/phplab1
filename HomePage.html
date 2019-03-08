@@ -33,6 +33,12 @@ and open the template in the editor.
             <input type="submit" name="btnConsulting" id="btnAbout" onclick="" value="Consulting Services" style="background-color: white; font-size: 35px; color: darkblue">
         </form>
     </div>
+        <br>
+        <div>
+        <form name="btnLinks" method="post" action="githubandheroku.html">
+            <input type="submit" name="btnLinks" id="btnAbout" onclick="" value="Links to GitHub and Heroku" style="background-color: white; font-size: 20px; color: darkblue">
+        </form>
+    </div>
         
         
         </center>
